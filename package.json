@@ -1,0 +1,32 @@
+{
+  "name": "ds-algo-in-js",
+  "version": "1.0.0",
+  "description": "ডেটা স্ট্রাকচার ও অ্যালগরিদম সহজে বাংলা ভাষায় জাভাস্ক্রিপ্ট দিয়ে বুঝার জন্য টিউটোরিয়াল।",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lahin31/ds-algo-in-js.git"
+  },
+  "keywords": [
+    "computer-science",
+    "algorithm",
+    "data-structure",
+    "complexity",
+    "interview"
+  ],
+  "author": "Muhammad Lahin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lahin31/bnAlgoDS/issues"
+  },
+  "homepage": "https://github.com/lahin31/bnAlgoDS#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.2.7",
+    "prettier": "^2.0.5"
+  }
+}
