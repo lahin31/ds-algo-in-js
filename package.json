@@ -21,9 +21,9 @@
   "author": "Muhammad Lahin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lahin31/bnAlgoDS/issues"
+    "url": "https://github.com/lahin31/ds-algo-in-js/issues"
   },
-  "homepage": "https://github.com/lahin31/bnAlgoDS#readme",
+  "homepage": "https://github.com/lahin31/ds-algo-in-js#readme",
   "dependencies": {},
   "devDependencies": {
     "jest": "^25.2.7",
