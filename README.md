@@ -16,7 +16,7 @@
 
 - [কমপ্লেক্সিটি](complexity/README.md)
 - [ডেটা স্ট্রাকচার](data-structure/README.md)
-- [অ্যালগরিদম](algorithm/README.md)
+- [অ্যালগরিদম](algorithm/README.md)(চলমান)
 - [ট্রি ট্রাভার্সাল](tree-traversal/README.md)
 - [রিকার্শন](recursion/README.md)
 
