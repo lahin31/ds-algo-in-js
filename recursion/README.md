@@ -33,11 +33,11 @@ console.log(generateSum(5)); // 15
 n = 5 হলে উপরের কোডটিকে সিমপ্লীফাই করলে দেখতে পারব,
 
 ```js
-5 + generateSum(4);
-5 + 4 + generateSum(3);
-5 + 4 + 3 + generateSum(2);
-5 + 4 + 3 + 2 + generateSum(1);
-5 + 4 + 3 + 2 + 1 + generateSum(0); // n === 0
+5 + generateSum(5 - 1);
+5 + 4 + generateSum(4 - 1);
+5 + 4 + 3 + generateSum(3 - 1);
+5 + 4 + 3 + 2 + generateSum(2 - 1);
+5 + 4 + 3 + 2 + 1 + generateSum(1 - 1); // n === 0
 5 + 4 + 3 + 2 + 1 + 0; // বেইস কেইসে চলে এসেছি তাই স্ট্যাক থেকে ফ্রী হওয়া শুরু করবে এবং আউটপুট 5 + 4 + 3 + 2 + 1 + 0 = 15
 ```
 
